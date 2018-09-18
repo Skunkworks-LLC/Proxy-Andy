@@ -1,0 +1,29 @@
+html, body {
+    display: flex;
+}
+
+#KickStarterContainer {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+#introduction {
+    flex: 1;
+    margin-bottom: 7%;
+}
+
+#details {
+    display: flex;
+    flex: 1;
+}
+
+#root {
+    flex: 1;
+    margin-bottom: 2%;
+}
+
+#support {
+    flex: 1;
+    margin-bottom: 2%;
+}
